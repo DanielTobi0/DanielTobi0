@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @DanielTobi
+<h1> 👋 Hi, I’m @DanielTobi </h1>
 👀 I’m interested in Python programming, Data Science, Machine Learning and AI.
 🌱 I’m currently refining my skills in Python programming steadily building up a proficiency in data science and machine learning libraries at the moment.
 👯 I’m looking to collaborate on open source tools for data science and machine learning.
