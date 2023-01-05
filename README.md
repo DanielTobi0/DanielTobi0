@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DanielTobi<br>
+👋 Hi, I’m DanielTobi<br>
 
 🌱 I’m currently refining my skills in Python programming steadily building up a proficiency in data science and machine learning libraries at the moment.<br>
 
