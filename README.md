@@ -8,4 +8,4 @@
 
 - 📫 How to reach me: Kindly reach me on my email address adejumobidaniel563@gmail.com or connect with me on [twitter.](https://twitter.com/DanielTobi0)
 
-- 😄 ⚡ I'm open to work!
+- ⚡ I'm open to work!
