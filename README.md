@@ -1,13 +1,11 @@
 # 💫 About Me:
 👋 Hi, I’m DanielTobi<br>
 
-🌱 I’m currently refining my skills in Python programming steadily building up a proficiency in data science and machine learning libraries at the moment.<br>
+🌱 I’m currently refining my skills in Python steadily building up a proficiency in data science and machine learning libraries at the moment.<br>
 
 👀 I’m interested in Python programming, Data Science, Machine Learning and AI.<br>
 
 👯 I’m looking to collaborate on open source tools for data science and machine learning.<br>
-
-🤔 I’m looking for help with being the best version of myself.<br>
 
 💬 Ask me about programming, Machine Learning and Data Science.<br>
 
