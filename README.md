@@ -2,6 +2,6 @@
 - 👀 I’m interested in Android Development and Machine Learning.<br>
 - 🌱 I’m currently refining my skills in Andriod Deveopment using Java and Kotlin.
 - 🌱 steadily building up a proficiency in Data Science and Machine Learning libraries at the moment using Python.<br>
-- 💞️ I’m looking to collaborate on Android Development projects and python development projects with a particular focus on but not limited to, data science and machine learning.<br>
+- 💞️ I’m looking to collaborate on Android Development projects and python development projects with a particular focus on but not limited to, android development and machine learning.<br>
 - 📫 How to reach me: Kindly reach me on my email address adejumobidaniel563@gmail.com or connect with me on [twitter.](https://twitter.com/DanielTobi0)
 - ⚡ I'm open to work!
