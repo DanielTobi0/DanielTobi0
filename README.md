@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Daniel Tobi<br>
-- 👀 I’m interested in Android Development and Machine Learning.<br>
-- 🌱 I’m currently refining my skills in Andriod Deveopment using Java and Kotlin.
-- 💞️ I’m looking to collaborate on Android Development projects.
+- 🌱 I’m currently refining my skills in Andriod Deveopment and Machine Learning.
 - 📫 How to reach me: Kindly reach me on my email address adejumobidaniel563@gmail.com or connect with me on [twitter.](https://twitter.com/DanielTobi0)
 - ⚡ I'm open to work!
