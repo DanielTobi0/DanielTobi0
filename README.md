@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Daniel Tobi.<br>
 - 👀 I’m a machine learning engineer.
 - 🌱 Currently exploring natural language processing.
-- ⚡ I'm open for any AI related collaborations especially on nlp.
+- ⚡ I'm open for any AI related collaboration.
