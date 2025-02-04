@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Daniel Tobi.<br>
-- 👀 I’m a machine learning engineer and AI engineer.
-- 🌱 Currently working on Large Language Models
-- ⚡ 
+- 👀 I’m a machine learning researcher / engineer .
+- 🌱 Currently hacking on LLM's and Generative AI
