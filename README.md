@@ -1,4 +1,4 @@
 - Hi, I’m Daniel Tobi.<br>
-- I’m a AI | ML researcher / engineer.<br>
+- AI | ML researcher / engineer.<br>
 - I thrive in role that blends research and engineering.<br>
 - Currently building context aware agents.
