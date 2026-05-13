@@ -1,4 +1,1 @@
-Hi, I’m Daniel Tobi.<br>
-AI Engineer<br>
-I thrive in roles that blend research and engineering<br>
-Currently building context-aware agents for financial investments
+I am a Generative AI Engineer that is interested in Deep Learning and AI Agents.
