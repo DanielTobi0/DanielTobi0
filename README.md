@@ -1,1 +1,1 @@
-I am a Generative AI Engineer that is interested in Deep Learning and AI Agents.
+I am an AI Engineer that is interested in Deep Learning and AI Agents.
