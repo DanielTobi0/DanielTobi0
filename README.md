@@ -1,1 +1,2 @@
-I am an AI Engineer that is interested in Deep Learning and AI Agents.
+Hi I'm Daniel Tobi</br>
+I'm interested in Pre/Post Training of LLM's and AI Engineering.
