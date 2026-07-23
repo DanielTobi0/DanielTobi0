@@ -1,3 +1,7 @@
-Hi I'm Daniel Tobi</br>
-I'm interested in Pre/Post Training of LLM's and AI Engineering.</br>
-I find it interesting implementing ML research papers from scratch.
+Hi, I'm Daniel Tobi - AI engineer working on LLM agents.
+
+Founding engineer on a multi-agent trading system now in daily use at a buy-side fund. 
+
+Most of what I build starts as a paper I wanted to understand properly.
+
+Currently post-training LLMs for long-horizon deep research tasks, evaluating them on BrowseComp-Plus.
